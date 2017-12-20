@@ -1,0 +1,4 @@
+
+(define str "jjhv\u34")
+
+str
